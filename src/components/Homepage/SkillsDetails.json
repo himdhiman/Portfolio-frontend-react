@@ -1,0 +1,104 @@
+{
+  "skills": [
+    {
+      "name": "C",
+      "svgsrc": "./images/skills/c.svg"
+    },
+    {
+      "name": "C++",
+      "svgsrc": "./images/skills/cpp.svg"
+    },
+    {
+      "name": "Python",
+      "svgsrc": "./images/skills/python3.svg"
+    },
+    {
+      "name": "Numpy",
+      "svgsrc": "./images/skills/numpy.svg"
+    },
+    {
+      "name": "Pandas",
+      "svgsrc": "./images/skills/pandas.svg"
+    },
+    {
+      "name": "Matplotlib",
+      "svgsrc": "./images/skills/matplotlib.svg"
+    },
+    {
+      "name": "OpenCV",
+      "svgsrc": "./images/skills/opencv-icon.svg"
+    },
+    {
+      "name": "Sklearn",
+      "svgsrc": "./images/skills/sklearn.svg"
+    },
+    {
+      "name": "TensorFlow",
+      "svgsrc": "./images/skills/tensorflow.svg"
+    },
+    {
+      "name": "Keras",
+      "svgsrc": "./images/skills/keras.svg"
+    },
+    {
+      "name": "Darknet",
+      "svgsrc": "./images/skills/darknet.svg"
+    },
+    {
+      "name": "Django",
+      "svgsrc": "./images/skills/django.svg"
+    },
+    {
+      "name": "restFramework",
+      "svgsrc": "./images/skills/restframework.png"
+    },
+    {
+      "name": "Channels",
+      "svgsrc": "./images/skills/channels.png"
+    },
+    {
+      "name": "PostgreSQL",
+      "svgsrc": "./images/skills/postgresql.svg"
+    },
+    {
+      "name": "redis",
+      "svgsrc": "./images/skills/redis.png"
+    },
+    {
+      "name": "celery",
+      "svgsrc": "./images/skills/celery.png"
+    },
+    {
+      "name": "docker",
+      "svgsrc": "./images/skills/docker.png"
+    },
+    {
+      "name": "JavaScript",
+      "svgsrc": "./images/skills/javascript.svg"
+    },
+    {
+      "name": "HTML5",
+      "svgsrc": "./images/skills/html5.svg"
+    },
+    {
+      "name": "CSS3",
+      "svgsrc": "./images/skills/css3.svg"
+    },
+    {
+      "name": "React",
+      "svgsrc": "./images/skills/react.svg"
+    },
+    {
+      "name": "Redux",
+      "svgsrc": "./images/skills/redux.svg"
+    },
+    {
+      "name": "Axios",
+      "svgsrc": "./images/skills/axios.svg"
+    },
+    {
+      "name": "WebPack",
+      "svgsrc": "./images/skills/webpack.svg"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "projects": [
+    {
+      "projectname": "Dirty Bits",
+      "description": "An Online Coding Platform",
+      "frameworks": "Django React",
+      "projectlink": "https://github.com/himdhiman/DirtyBits",
+      "imagesrc": "./images/projects/coding.jpg",
+      "link": "/covid"
+    },
+    {
+      "projectname": "Civid-19 Detection Using Chest Xrays",
+      "description": "HeatMaps are generated to detect the infectious region",
+      "frameworks": "TensorFlow",
+      "projectlink": "https://github.com/himdhiman/Covid-19-Detection",
+      "imagesrc": "./images/projects/background2.jpeg",
+      "link": "/covid"
+    },
+    {
+      "projectname": "Music Generation",
+      "description": "RNN's are used to Generate Piano Music",
+      "frameworks": "TensorFlow",
+      "projectlink": "https://github.com/himdhiman/MusicGeneration",
+      "imagesrc": "./images/projects/music.jpg",
+      "link": "/musicgeneration"
+    },
+    {
+      "projectname": "Caption Bot",
+      "description": "Image Captioning Project using Ateention based Archeitecture",
+      "frameworks": "TensorFlow",
+      "projectlink": "https://github.com/himdhiman/CaptionBot",
+      "imagesrc": "./images/projects/caption.png",
+      "link": "/covid"
+    },
+    {
+      "projectname": "Sentiment Analysis",
+      "description": "This model Predicts the Sentiment of a Given Sentence.",
+      "frameworks": "TensorFlow",
+      "projectlink": "https://github.com/himdhiman/SentimentAnalysis",
+      "imagesrc": "./images/projects/sentiment-analysis.jpg",
+      "link": "/sentimentanalysis"
+    },
+    {
+      "projectname": "Book My Show Clone",
+      "description": "Clone Of BMS",
+      "frameworks": "Django HTML CSS JavaScript",
+      "projectlink": "https://book-my-show-clone.herokuapp.com/",
+      "imagesrc": "./images/projects/bookmyshow.jpeg",
+      "link": "/covid"
+    },
+    {
+      "projectname": "Ship Detection From SAR Images",
+      "description": "Detect Ships from Given SAR Images.",
+      "frameworks": "Django JavaScript YoloV3",
+      "projectlink": "https://github.com/himdhiman/SIH-2020-Ship_Detection-Project-ISRO",
+      "imagesrc": "./images/projects/ship.jfif",
+      "link": "/covid"
+    },
+    {
+      "projectname": "Face Detection",
+      "description": "Face Detection using OpenCV.",
+      "frameworks": "OpenCV",
+      "projectlink": "https://github.com/himdhiman/Face-Features-Live",
+      "imagesrc": "./images/projects/face.jpg",
+      "link": "/covid"
+    },
+    {
+      "projectname": "Human Detection",
+      "description": "RCNN's are used to detect the people.",
+      "frameworks": "Django TensorFlow",
+      "projectlink": "https://github.com/himdhiman/RCNN---HumanDetection",
+      "imagesrc": "./images/projects/HD.png",
+      "link": "/covid"
+    }
+  ]
+}
