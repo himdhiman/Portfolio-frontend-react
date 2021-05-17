@@ -3,10 +3,9 @@ import { Link } from "react-router-dom";
 
 function ProjectCard(props) {
   const renderCard = props.projects.map((project) => {
-    var image =
-      process.env.PUBLIC_URL +
-      "/assets/Homepage/images/projects/" +
-      project.imagesrc;
+    // var image = require("../../../public/assets/HomePage/images/projects/" +
+    //   project.imagesrc);
+    var image = "/public/assets/Homepage/images/projects/" + project.imagesrc;
     return (
       <div key={project.projectname}>
         <div className="column" id="project-card">
