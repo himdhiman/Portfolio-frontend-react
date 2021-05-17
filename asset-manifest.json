@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio-frontend-react/static/css/main.a5eb9cf9.chunk.css",
+    "main.js": "/Portfolio-frontend-react/static/js/main.0abfdfaa.chunk.js",
+    "main.js.map": "/Portfolio-frontend-react/static/js/main.0abfdfaa.chunk.js.map",
+    "runtime-main.js": "/Portfolio-frontend-react/static/js/runtime-main.6e897049.js",
+    "runtime-main.js.map": "/Portfolio-frontend-react/static/js/runtime-main.6e897049.js.map",
+    "static/js/2.e7129243.chunk.js": "/Portfolio-frontend-react/static/js/2.e7129243.chunk.js",
+    "static/js/2.e7129243.chunk.js.map": "/Portfolio-frontend-react/static/js/2.e7129243.chunk.js.map",
+    "index.html": "/Portfolio-frontend-react/index.html",
+    "static/css/main.a5eb9cf9.chunk.css.map": "/Portfolio-frontend-react/static/css/main.a5eb9cf9.chunk.css.map",
+    "static/js/2.e7129243.chunk.js.LICENSE.txt": "/Portfolio-frontend-react/static/js/2.e7129243.chunk.js.LICENSE.txt",
+    "static/media/Corona.b4b4f2d4.svg": "/Portfolio-frontend-react/static/media/Corona.b4b4f2d4.svg",
+    "static/media/Mask.0543204a.svg": "/Portfolio-frontend-react/static/media/Mask.0543204a.svg",
+    "static/media/Recovered.2bc9a8c2.svg": "/Portfolio-frontend-react/static/media/Recovered.2bc9a8c2.svg",
+    "static/media/App.css": "/Portfolio-frontend-react/static/media/background6.b7d31dec.jpg",
+    "static/media/confMatrix.ecdb8191.png": "/Portfolio-frontend-react/static/media/confMatrix.ecdb8191.png",
+    "static/media/lossPlot.7d356b35.png": "/Portfolio-frontend-react/static/media/lossPlot.7d356b35.png",
+    "static/media/smiley.0dc6ad75.png": "/Portfolio-frontend-react/static/media/smiley.0dc6ad75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e897049.js",
+    "static/js/2.e7129243.chunk.js",
+    "static/css/main.a5eb9cf9.chunk.css",
+    "static/js/main.0abfdfaa.chunk.js"
+  ]
+}
