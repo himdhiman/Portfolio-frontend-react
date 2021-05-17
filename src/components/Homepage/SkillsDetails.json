@@ -2,103 +2,103 @@
   "skills": [
     {
       "name": "C",
-      "svgsrc": "./images/skills/c.svg"
+      "svgsrc": "c.svg"
     },
     {
       "name": "C++",
-      "svgsrc": "./images/skills/cpp.svg"
+      "svgsrc": "cpp.svg"
     },
     {
       "name": "Python",
-      "svgsrc": "./images/skills/python3.svg"
+      "svgsrc": "python3.svg"
     },
     {
       "name": "Numpy",
-      "svgsrc": "./images/skills/numpy.svg"
+      "svgsrc": "numpy.svg"
     },
     {
       "name": "Pandas",
-      "svgsrc": "./images/skills/pandas.svg"
+      "svgsrc": "pandas.svg"
     },
     {
       "name": "Matplotlib",
-      "svgsrc": "./images/skills/matplotlib.svg"
+      "svgsrc": "matplotlib.svg"
     },
     {
       "name": "OpenCV",
-      "svgsrc": "./images/skills/opencv-icon.svg"
+      "svgsrc": "opencv-icon.svg"
     },
     {
       "name": "Sklearn",
-      "svgsrc": "./images/skills/sklearn.svg"
+      "svgsrc": "sklearn.svg"
     },
     {
       "name": "TensorFlow",
-      "svgsrc": "./images/skills/tensorflow.svg"
+      "svgsrc": "tensorflow.svg"
     },
     {
       "name": "Keras",
-      "svgsrc": "./images/skills/keras.svg"
+      "svgsrc": "keras.svg"
     },
     {
       "name": "Darknet",
-      "svgsrc": "./images/skills/darknet.svg"
+      "svgsrc": "darknet.svg"
     },
     {
       "name": "Django",
-      "svgsrc": "./images/skills/django.svg"
+      "svgsrc": "django.svg"
     },
     {
       "name": "restFramework",
-      "svgsrc": "./images/skills/restframework.png"
+      "svgsrc": "restframework.png"
     },
     {
       "name": "Channels",
-      "svgsrc": "./images/skills/channels.png"
+      "svgsrc": "channels.png"
     },
     {
       "name": "PostgreSQL",
-      "svgsrc": "./images/skills/postgresql.svg"
+      "svgsrc": "postgresql.svg"
     },
     {
       "name": "redis",
-      "svgsrc": "./images/skills/redis.png"
+      "svgsrc": "redis.png"
     },
     {
       "name": "celery",
-      "svgsrc": "./images/skills/celery.png"
+      "svgsrc": "celery.png"
     },
     {
       "name": "docker",
-      "svgsrc": "./images/skills/docker.png"
+      "svgsrc": "docker.png"
     },
     {
       "name": "JavaScript",
-      "svgsrc": "./images/skills/javascript.svg"
+      "svgsrc": "javascript.svg"
     },
     {
       "name": "HTML5",
-      "svgsrc": "./images/skills/html5.svg"
+      "svgsrc": "html5.svg"
     },
     {
       "name": "CSS3",
-      "svgsrc": "./images/skills/css3.svg"
+      "svgsrc": "css3.svg"
     },
     {
       "name": "React",
-      "svgsrc": "./images/skills/react.svg"
+      "svgsrc": "react.svg"
     },
     {
       "name": "Redux",
-      "svgsrc": "./images/skills/redux.svg"
+      "svgsrc": "redux.svg"
     },
     {
       "name": "Axios",
-      "svgsrc": "./images/skills/axios.svg"
+      "svgsrc": "axios.svg"
     },
     {
       "name": "WebPack",
-      "svgsrc": "./images/skills/webpack.svg"
+      "svgsrc": "webpack.svg"
     }
   ]
 }

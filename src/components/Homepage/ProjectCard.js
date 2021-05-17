@@ -3,17 +3,17 @@ import { Link } from "react-router-dom";
 
 function ProjectCard(props) {
   const renderCard = props.projects.map((project) => {
+    var image =
+      process.env.PUBLIC_URL +
+      "/assets/Homepage/images/projects/" +
+      project.imagesrc;
     return (
       <div key={project.projectname}>
         <div className="column" id="project-card">
           <div className="ui segment">
             <div className="ui card">
               <div className="image">
-                <img
-                  id="card-img"
-                  src={require(`${project.imagesrc}`)}
-                  alt=""
-                ></img>
+                <img id="card-img" src={image} alt=""></img>
               </div>
               <div className="content">
                 <div className="header">{project.projectname}</div>
